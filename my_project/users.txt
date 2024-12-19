@@ -1,0 +1,9 @@
+user,pass,менеджер
+teterev,maxminme12,преподаватель
+danilova,somme10,преподаватель
+sidorov,nonename$56,преподаватель
+teterinav,freedot56,студент
+kolesnikov,forme12,студент
+vasilyeva,passname,студент
+kovalev,freeman,студент
+kolotevav,mypassword5,преподаватель
